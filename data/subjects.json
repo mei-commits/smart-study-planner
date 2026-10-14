@@ -1,0 +1,40 @@
+{
+  "Python": {
+    "priority": 5,
+    "topics": {
+      "Variables": {
+        "difficulty": 1,
+        "done": false
+      },
+      "Data Structures": {
+        "difficulty": 2,
+        "done": false
+      },
+      "Functions": {
+        "difficulty": 2,
+        "done": false
+      },
+      "OOP": {
+        "difficulty": 3,
+        "done": false
+      },
+      "Pandas": {
+        "difficulty": 3,
+        "done": false
+      }
+    }
+  },
+  "Math": {
+    "priority": 3,
+    "topics": {
+      "Algebra": {
+        "difficulty": 2,
+        "done": false
+      },
+      "Geometry": {
+        "difficulty": 2,
+        "done": false
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+subject,topic,question,a,b,c,d,answer
+Python,Variables,Which of these is a valid variable name?,1name,my_name,my-name,class,b
+Python,Variables,What is the data type of 3.14?,int,str,float,bool,c
+Python,Data Structures,Which structure is immutable?,list,dict,set,tuple,d
+Python,Data Structures,Which method adds an item to the end of a list?,add(),append(),insert_end(),push(),b
+Python,Functions,Which keyword defines a function?,func,define,def,lambda_def,c
+Python,OOP,What is the constructor method in a Python class?,__init__,__new_obj__,constructor,__start__,a
+Python,Pandas,Which function reads a CSV file in Pandas?,pd.open_csv(),pd.read_csv(),pd.load(),pd.get_csv(),b
+Math,Algebra,Solve: 2x + 4 = 10. What is x?,2,3,4,5,b
+Math,Algebra,What is (a + b)^2 equal to?,a^2 + b^2,a^2 - b^2,a^2 + 2ab + b^2,2a + 2b,c
+Math,Geometry,Sum of angles in a triangle is?,90,180,270,360,b
+Math,Geometry,Area of a circle with radius r?,2*pi*r,pi*r^2,pi*d,r^2,b

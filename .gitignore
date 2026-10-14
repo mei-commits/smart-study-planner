@@ -1,0 +1,7 @@
+# Personal quiz results and generated chart
+data/quiz_history.csv
+data/quiz_chart.png
+
+# Python
+__pycache__/
+*.pyc
